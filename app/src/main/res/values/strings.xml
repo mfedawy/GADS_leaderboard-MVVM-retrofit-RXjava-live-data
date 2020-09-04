@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">GADS_leaderboard_AADpractice_APP_2020</string>
+    <string name="leaderboard">Leaderboard</string>
+    <string name="submit">Submit</string>
+    <string name="Learning_Leaders">Learning Leaders</string>
+    <string name="Skill_IQ_Leaders">Skill IQ Leaders</string>
+    <string name="todo">TODO</string>
+    <string name="project_submission">Project Submission</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email</string>
+    <string name="github_link">Github link</string>
+    <string name="submission_not_successful">submission not successful</string>
+    <string name="submission_successful">submission successful</string>
+    <string name="are_you_sure">Are you sure</string>
+    <string name="yes">yes</string>
+    <string name="name">name</string>
+    <string name="_000">000</string>
+    <string name="skill_iq_score">Skill iq score,</string>
+    <string name="kenia">kenia</string>
+    <string name="learning_hours">Learning hours,</string>
+</resources>
