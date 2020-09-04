@@ -12,6 +12,6 @@ App Screenshot :
   <img src="https://github.com/mfedawy/GADS_leaderboard/blob/master/Screenshot_1599252242.png" width="250" height="400"/>
   <img src="https://github.com/mfedawy/GADS_leaderboard/blob/master/Screenshot_1599252253.png" width="250" height="400"/>
   <img src="https://github.com/mfedawy/GADS_leaderboard/blob/master/Screenshot_1599252257.png" width="250" height="400"/>
-  <img src="https://github.com/mfedawy/GADS_leaderboard/blob/master/Screenshot_1599252258.png" width="250" height="400"/>
+  <img src="https://github.com/mfedawy/GADS_leaderboard/blob/master/Screenshot_1599253158.png" width="250" height="400"/>
 
 </p>
